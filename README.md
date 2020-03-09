@@ -38,4 +38,4 @@ For users that need to keep track of a lot of information, it's easy to forget o
     <img src="./sample.PNG" width="400px"</img> 
 </div>
 
- <img src="./sample.PNG" height="400" alt="Screenshot"/> 
+ <img src="./Note-taker.gif" height="400" alt="Screenshot"/> 
