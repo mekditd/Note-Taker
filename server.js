@@ -3,7 +3,7 @@
 // =============================================================
 var express = require("express");
 var path = require("path");
-var notes = require("./db/db.json");
+var notes = require("./db.json");
 
 // =============================================================
 // Sets up the Express App
